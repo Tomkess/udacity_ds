@@ -9,29 +9,17 @@ The project uses well known modules.
 
 `import pandas as pd`
 `import glob`
-
 `import itertools`
-
 `import zipfile`
-
 `import numpy as np`
-
 `import matplotlib.pyplot`
-
 `import seaborn`
-
 `import math`
-
 `from matplotlib.dates import DateFormatter`
-
 `import plotly.express as px`
-
 `from sklearn.impute import KNNImputer`
-
 `from sklearn_pandas import CategoricalImputer`
-
 `from datetime import datetime, timedelta`
-
 `from xgboost import plot_importance`
 
 I used wordcloud modelu to create a plot with words. Installation using `pip install wordcloud`.
