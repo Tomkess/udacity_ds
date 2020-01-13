@@ -35,6 +35,8 @@ from datetime import datetime, timedelta
 
 from xgboost import plot_importance
 
+I used wordcloud modelu to create a plot with words. Installation using `pip install wordcloud`.
+
 ## Introduction
 Shared economy is currently on the increasing trajectory - new business models, new technologies and big hyhpe surrounded it. Since there is a lot of boom around, there is also a demand for newer insights that might be helpful. In this project I focused on creating something new, i.e something beyond price forecasting.
 
