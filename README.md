@@ -8,7 +8,6 @@ The folder containing the exercises from udacity nanodegree program.
 The project uses well known modules.
 
 `import pandas as pd`
-
 `import glob`
 
 `import itertools`
