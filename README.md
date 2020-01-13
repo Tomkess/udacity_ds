@@ -4,6 +4,9 @@ The folder containing the exercises from udacity nanodegree program.
 # Just another topic about Airbnb - Demand Prediction for price optimization?
 
 ## Requirements:
+
+The project uses well known modules.
+
 import pandas as pd
 import glob
 import itertools
