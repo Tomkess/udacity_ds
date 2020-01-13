@@ -7,33 +7,33 @@ The folder containing the exercises from udacity nanodegree program.
 
 The project uses well known modules.
 
-import pandas as pd
+`import pandas as pd`
 
-import glob
+`import glob`
 
-import itertools
+`import itertools`
 
-import zipfile
+`import zipfile`
 
-import numpy as np
+`import numpy as np`
 
-import matplotlib.pyplot
+`import matplotlib.pyplot`
 
-import seaborn
+`import seaborn`
 
-import math
+`import math`
 
-from matplotlib.dates import DateFormatter
+`from matplotlib.dates import DateFormatter`
 
-import plotly.express as px
+`import plotly.express as px`
 
-from sklearn.impute import KNNImputer
+`from sklearn.impute import KNNImputer`
 
-from sklearn_pandas import CategoricalImputer
+`from sklearn_pandas import CategoricalImputer`
 
-from datetime import datetime, timedelta
+`from datetime import datetime, timedelta`
 
-from xgboost import plot_importance
+`from xgboost import plot_importance`
 
 I used wordcloud modelu to create a plot with words. Installation using `pip install wordcloud`.
 
