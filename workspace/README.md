@@ -1,5 +1,10 @@
 # Disaster Response Pipeline Project
 
+### Summary
+The project is part of the Udacity nanodegree program. The goal of the project is to provide an application that will categorize the messages into 36 groups. The workflow is as follows - ETL extracting the data and putting it into SQlite database, ML pipeline fitting the machine learning model using GridSearch functionality and App visualizing the results.
+
+### Screenshots
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
